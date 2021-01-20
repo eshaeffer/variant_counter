@@ -29,4 +29,4 @@ pros/cons:
 - very good on memory
 - Count variants/ filter them on large(ish) scale.
 - accurate
-- slower than if I had used python standard libraries such as numpy/pandas
+- filtering capability is very usefull

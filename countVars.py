@@ -20,6 +20,7 @@ parser.add_argument("-k", default=False, action='store_true',
 parser.add_argument("-outputDir", default="",
                     help="input directory to be used to output of rare and deletorious vars to a vcf file")
 
+#test git
 args = parser.parse_args()
 
 # open file and get paths, storing them in filePaths
